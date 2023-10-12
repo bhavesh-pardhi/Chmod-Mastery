@@ -1,5 +1,9 @@
 # Let's Mastering Linux Permissions and chmod - Your guide to complete control over file access in Linux.
 
+<p align="center">
+   <img src="https://github.com/bhavesh-pardhi/Chmod-Mastery/blob/main/image/chmod-linux-example-4.png"alt="Chmod">
+</p>
+
 
 > In Linux, file and directory permissions are essential for controlling who can access, modify, or execute files and directories. Permissions are represented by a 10-character string, such as "drwxr-xr-x" for a directory or "-rw-r--r--" for a file. Let's break down what each character in the string represents:
 
